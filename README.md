@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello, I am Umair Shahid 👋
 
+- 🔭 I’m currently working on React, React-Native and Angular
+- 🌱 I’m currently learning RxJs.
 <!--
 **umairshahid436/umairshahid436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
