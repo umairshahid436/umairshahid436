@@ -8,7 +8,3 @@ Full-Stack developer with 6+ years of experience in web, mobile, and desktop dev
     <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,apollo,tailwind,git,aws,azure,dotnet" />
   </a>
 </p>
-
-You can find me on: 
-* [LinkedIn](https://www.linkedin.com/in/umairshahid436/)
-* [Twitter](https://twitter.com/umairshahid436)
